@@ -1,7 +1,9 @@
-import React from 'react'
+import React from "react";
+import Header from "./Header";
 
-const App = () =>
-<div>
-hggaga
-</div>
-export default App
+const App = () => (
+  <div>
+    <Header />
+  </div>
+);
+export default App;
