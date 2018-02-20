@@ -1,2 +1,0 @@
-# sedona
-Created with CodeSandbox
