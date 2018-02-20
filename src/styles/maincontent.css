@@ -1,0 +1,67 @@
+.maincontent {
+  margin-top: 240px;
+}
+.maincontent h3 {
+  font-weight: bold;
+  display: inline;
+  margin: 25px 25px 25px 10px;
+  font-size: 18px;
+  line-height: 26px;
+}
+.maincontent p {
+  margin: 0 75px;
+  font-size: 18px;
+  line-height: 26px;
+  font-weight: normal;
+}
+.house,
+.gift,
+.burger {
+  margin-top: 20px;
+  margin-left: 25px;
+}
+.maincontent-bridge {
+  background-color: #81b3d1;
+}
+.maincontent-bridge h4 {
+  text-align: center;
+  padding: 45px 28px;
+  color: #fff;
+  font-size: 18px;
+  line-height: 26px;
+  margin: 0;
+  text-transform: uppercase;
+}
+.maincontent-bridge h3 {
+  color: #fff;
+  line-height: 26px;
+  font-size: 14px;
+  font-weight: normal;
+  margin: 0;
+  text-transform: uppercase;
+}
+.maincontent-image {
+  background-image: url("https://rawgit.com/Glebfedchenko/sedona/a729d460f484008c95e42d17aaf6c36498bab102/src/styles/img/photo-bridge@1x.png");
+  background-position: center;
+  height: 260px;
+}
+.maincontent-features {
+  background-color: #eeeeee;
+}
+.maincontent-features h4 {
+  margin: 0 28px;
+  text-align: center;
+  padding: 30px 0 10px 0;
+  font-size: 18px;
+  line-height: 26px;
+  text-transform: uppercase;
+  border-bottom: 1px solid #d6d6d6;
+}
+.maincontent-features h3 {
+  margin: 0;
+  text-align: center;
+  line-height: 26px;
+  font-size: 14px;
+  font-weight: normal;
+  text-transform: uppercase;
+}

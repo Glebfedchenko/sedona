@@ -1,11 +1,7 @@
 .menu-main {
   height: 56px;
+  background-color: #fff;
 }
-/* .logoM {
-  position: absolute;
-  z-index: 1;
-} */
-
 .menu-burger {
   width: 23px;
   position: absolute;

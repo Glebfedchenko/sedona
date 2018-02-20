@@ -1,0 +1,47 @@
+.info {
+  background-image: url("https://rawgit.com/Glebfedchenko/sedona/a729d460f484008c95e42d17aaf6c36498bab102/src/styles/img/back-mobile.jpg.png");
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-color: #81b3d1;
+  height: 861px;
+}
+.info h2 {
+  margin: 0;
+  position: relative;
+  background-color: #fff;
+  top: 171px;
+  height: 158px;
+  font-size: 18px;
+  line-height: 26px;
+  text-align: center;
+  padding: 45px 35px 0;
+}
+.info h3 {
+  margin: 0;
+  padding: 0;
+  line-height: 26px;
+  font-size: 14px;
+  font-weight: normal;
+}
+.info h4 {
+  position: relative;
+  text-align: center;
+  padding: 0 28px;
+  margin: 0;
+  margin-top: 240px;
+  color: #fff;
+  font-size: 18px;
+  line-height: 26px;
+}
+.hero {
+  position: relative;
+  top: 15%;
+  left: 50%;
+  transform: translate(-50%, 45%);
+}
+.info-image {
+  height: 260px;
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-image: url("https://rawgit.com/Glebfedchenko/sedona/a729d460f484008c95e42d17aaf6c36498bab102/src/styles/img/photo-city@1x.png");
+}

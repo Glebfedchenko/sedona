@@ -1,9 +1,13 @@
 import React from "react";
-import Header from "./Header";
+import Menu from "./Menu";
+import Info from "./Info";
+import MainContent from "./MainContent";
 
 const App = () => (
   <div>
-    <Header />
+    <Menu />
+    <Info />
+    <MainContent/>
   </div>
 );
 export default App;
