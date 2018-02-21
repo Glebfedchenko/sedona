@@ -1,0 +1,25 @@
+.interested {
+  text-align: center;
+}
+.interested h2 {
+  font-size: 21px;
+  line-height: 26px;
+  margin: 35px 0;
+}
+.interested h3 {
+  font-size: 14px;
+  line-height: 26px;
+  margin: 0 30px 40px 30px;
+  font-weight: normal;
+}
+.interested button {
+  width: 80%;
+  margin: 0 0 40px 0;
+  background-color: #81b3d1;
+  color: #fff;
+  border: 0;
+  height: 55px;
+  font-size: 21px;
+  line-height: 26px;
+  font-weight: bold;
+}

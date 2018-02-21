@@ -1,0 +1,10 @@
+footer {
+  text-align: center;
+}
+footer h2 {
+  margin: 40px 0;
+}
+.svg-inline--fa.fa-w-14 {
+  margin: 0 5px 40px 5px;
+  color: #81b3d1;
+}
