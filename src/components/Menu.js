@@ -11,7 +11,7 @@ export default class Menu extends Component {
   render() {
     const { active } = this.state;
     return (
-      <seciton>
+      <div>
         <div className={!active? 'disabled': 'menu-mobilewrapper'}>
           <ul>
             <li><a>Home</a></li>
@@ -34,7 +34,7 @@ export default class Menu extends Component {
           </div>
           </div>
         </section>
-      </seciton>
+      </div>
     );
   }
 }

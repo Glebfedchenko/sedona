@@ -22,10 +22,11 @@
 }
 .maincontent-bridge {
   background-color: #81b3d1;
+  text-align: center;
 }
 .maincontent-bridge h4 {
   text-align: center;
-  padding: 45px 28px;
+  padding: 30px 28px;
   color: #fff;
   font-size: 18px;
   line-height: 26px;
@@ -47,6 +48,15 @@
 }
 .maincontent-features {
   background-color: #eeeeee;
+  text-align: center;
+}
+.maincontent-features li {
+  margin: 0 30px;
+  border-bottom: 1px solid #d6d6d6;
+  list-style-type: none;
+}
+.maincontent-features div {
+  margin: 0 0 20px 0;
 }
 .maincontent-features h4 {
   margin: 0 28px;
@@ -55,7 +65,6 @@
   font-size: 18px;
   line-height: 26px;
   text-transform: uppercase;
-  border-bottom: 1px solid #d6d6d6;
 }
 .maincontent-features h3 {
   margin: 0;
